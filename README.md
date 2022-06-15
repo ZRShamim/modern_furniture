@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Screenshots
+
+<img src="https://raw.githubusercontent.com/ZRShamim/modern_furniture/main/assets/screenshots/1.png" width=350  >
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
